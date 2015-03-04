@@ -1,0 +1,19 @@
+
+
+.neutral {
+	background-color:		#eee;
+	border:					1px solid #000;
+	margin:					6px;
+}
+
+.good {
+	background-color:		#cfc;
+	border:					1px solid #000;
+	margin:					6px;
+}
+
+.bad {
+	background-color:		#fcc;
+	border:					1px solid #000;
+	margin:					6px;
+}
